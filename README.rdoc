@@ -1,0 +1,1 @@
+SHauno's second rails app following rails tutorial.
